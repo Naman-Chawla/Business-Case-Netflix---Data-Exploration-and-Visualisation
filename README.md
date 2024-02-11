@@ -7,15 +7,15 @@ Business Problem
 Analyze the data and generate insights that could help Netflix ijn deciding which type of shows/movies to produce and how they can grow the business in different countries
 
 Dataset <br>
-Show_id: Unique ID for every Movie / Tv Show
-Type: Identifier - A Movie or TV Show
-Title: Title of the Movie / Tv Show
-Director: Director of the Movie
-Cast: Actors involved in the movie/show
-Country: Country where the movie/show was produced
-Date_added: Date it was added on Netflix
-Release_year: Actual Release year of the movie/show
-Rating: TV Rating of the movie/show
-Duration: Total Duration - in minutes or number of seasons
-Listed_in: Genre
-Description: The summary description
+Show_id: Unique ID for every Movie / Tv Show <br>
+Type: Identifier - A Movie or TV Show <br>
+Title: Title of the Movie / Tv Show <br>
+Director: Director of the Movie <br>
+Cast: Actors involved in the movie/show  <br>
+Country: Country where the movie/show was produced <br>
+Date_added: Date it was added on Netflix <br>
+Release_year: Actual Release year of the movie/show  <br>
+Rating: TV Rating of the movie/show  <br>
+Duration: Total Duration - in minutes or number of seasons  <br>
+Listed_in: Genre <br>
+Description: The summary description <br>
